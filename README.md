@@ -16,3 +16,8 @@ A curated list of awesome engineering tools, resources, settings and prefs that 
 * [ZSH Handling with Brew](https://rick.cogley.info/post/use-homebrew-zsh-instead-of-the-osx-default/) - Resource for installing zsh in a right way.
 * [Oh My Zsh](https://github.com/robbyrussell/oh-my-zsh) - Open source framework for managing zsh shell script.
 * [Sourcetree](https://www.sourcetreeapp.com/) - Git manager GUI
+
+## Awesome Lists
+
+* [Computer Vision List](https://github.com/jbhuang0604/awesome-computer-vision)
+* [Awesome Software Engineering List](https://github.com/sindresorhus/awesome)
