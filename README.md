@@ -13,3 +13,6 @@ A curated list of awesome engineering tools, resources, settings and prefs that 
 * [FZF: Command line fuzzy finder](https://github.com/junegunn/fzf) - fzf is a general-purpose command-line fuzzy finder.
 * [iTerm2](https://www.iterm2.com/) - iTerm2 is a replacement for Terminal and the successor to iTerm.
 * [Customize iTerm2](https://medium.com/@marcteodorfrancoiscoquand/how-to-develop-with-style-pimp-your-environment-with-iterm2-zsh-and-gruvbox-dark-dcf3524c9552) - Stylish but not over-styled Terminal for my daily development work.
+* [ZSH Handling with Brew](https://rick.cogley.info/post/use-homebrew-zsh-instead-of-the-osx-default/) - Resource for installing zsh in a right way.
+* [Oh My Zsh](https://github.com/robbyrussell/oh-my-zsh) - Open source framework for managing zsh shell script.
+* [Sourcetree](https://www.sourcetreeapp.com/) - Git manager GUI
