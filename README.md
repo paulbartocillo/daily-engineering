@@ -22,7 +22,7 @@ A curated list of awesome engineering tools, resources, settings and prefs that 
 
 * [nvm](https://github.com/creationix/nvm) - Node Version Manager - Simple bash script to manage multiple active node.js versions.
 * [AngularJs](https://angular.io/) - Angular is a platform that makes it easy to build applications with the web.
-            - [@angular/cli](https://cli.angular.io/) - A command line interface for Angular
+  * [@angular/cli](https://cli.angular.io/) - A command line interface for Angular
 * [Webpack](https://github.com/webpack-contrib/awesome-webpack#readme) - Webpack takes modules with dependencies and generates static assets representing those modules. 
 
 ## Awesome Lists
