@@ -16,7 +16,7 @@ A curated list of awesome engineering tools, resources, settings and prefs that 
 * [ZSH Handling with Brew](https://rick.cogley.info/post/use-homebrew-zsh-instead-of-the-osx-default/) - Resource for installing zsh in a right way.
 * [Oh My Zsh](https://github.com/robbyrussell/oh-my-zsh) - Open source framework for managing zsh shell script.
 * [Sourcetree](https://www.sourcetreeapp.com/) - Git manager GUI
-             * `ln -s /Applications/SourceTree.app/Contents/Resources/stree /usr/local/bin/` you may need this if sourcetree is not working on terminal
+            * `ln -s /Applications/SourceTree.app/Contents/Resources/stree /usr/local/bin/` you may need this if sourcetree is not working on terminal
 
 ## Javascript
 
