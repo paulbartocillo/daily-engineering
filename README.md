@@ -16,13 +16,13 @@ A curated list of awesome engineering tools, resources, settings and prefs that 
 * [ZSH Handling with Brew](https://rick.cogley.info/post/use-homebrew-zsh-instead-of-the-osx-default/) - Resource for installing zsh in a right way.
 * [Oh My Zsh](https://github.com/robbyrussell/oh-my-zsh) - Open source framework for managing zsh shell script.
 * [Sourcetree](https://www.sourcetreeapp.com/) - Git manager GUI
-        * `ln -s /Applications/SourceTree.app/Contents/Resources/stree /usr/local/bin/` you may need this if sourcetree is not working on terminal
+             - `ln -s /Applications/SourceTree.app/Contents/Resources/stree /usr/local/bin/` you may need this if sourcetree is not working on terminal
 
 ## Javascript
 
 * [nvm](https://github.com/creationix/nvm) - Node Version Manager - Simple bash script to manage multiple active node.js versions.
 * [AngularJs](https://angular.io/) - Angular is a platform that makes it easy to build applications with the web.
-        * [@angular/cli](https://cli.angular.io/) - A command line interface for Angular
+            - [@angular/cli](https://cli.angular.io/) - A command line interface for Angular
 * [Webpack](https://github.com/webpack-contrib/awesome-webpack#readme) - Webpack takes modules with dependencies and generates static assets representing those modules. 
 
 ## Awesome Lists
