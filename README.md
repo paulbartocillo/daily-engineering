@@ -23,7 +23,18 @@ A curated list of awesome engineering tools, resources, settings and prefs that 
 * [nvm](https://github.com/creationix/nvm) - Node Version Manager - Simple bash script to manage multiple active node.js versions.
 * [AngularJs](https://angular.io/) - Angular is a platform that makes it easy to build applications with the web.
   * [@angular/cli](https://cli.angular.io/) - A command line interface for Angular
-* [Webpack](https://github.com/webpack-contrib/awesome-webpack#readme) - Webpack takes modules with dependencies and generates static assets representing those modules. 
+* [Webpack](https://github.com/webpack-contrib/awesome-webpack#readme) - Webpack takes modules with dependencies and generates static assets representing those modules.
+
+## Elixir
+
+* [asdf](https://github.com/asdf-vm/asdf) - Elixir Version Manager - Simple bash script to manage multiple active elixir.
+  * [erlang-plugin](https://github.com/asdf-vm/asdf-erlang) - asdf erlang plugin
+  * [elixir-plugin](https://github.com/asdf-vm/asdf-elixir) - asdf elixir plugin
+  `Elixir Versions 1.6.1 and Erlang Versions 20.0`
+
+## Vscode Settings
+
+* [Stackoverflow: Keybindings for cmd + <number> to switch tabs.](https://stackoverflow.com/questions/38957302/is-there-a-quick-change-tabs-function-in-visual-studio-code)
 
 ## Awesome Lists
 
